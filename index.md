@@ -1,7 +1,5 @@
 comes for urti
-
 fever cough rn bn st
-
 no cp sob palpitations
 
 no constitutional sx
