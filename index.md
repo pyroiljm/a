@@ -1,34 +1,24 @@
-comes for urti
-fever cough rn bn st
-no cp sob palpitations
-
-no constitutional sx
-
+comes for urti  
+fever cough rn bn st  
+no cp sob palpitations  
+no constitutional sx  
 
 oe
-walked in
+walked in  
+alert nontoxic  
 
-alert nontoxic
+h s1s2  
+l clear  
 
+thr inj. no exudates. tonsils nad  
 
-h s1s2
-
-l clear
-
-
-thr inj. no exudates. tonsils nad
-
-
-a
-
-urti
+a  
+urti  
 
 
-plan
-
-meds
-
-mc
+plan  
+meds  
+mc  
 
 =====
 
