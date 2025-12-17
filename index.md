@@ -489,3 +489,21 @@ red flags advised
 
 ======  
 
+comes for apthous ulcer  
+no pus/discharge  
+no fever  
+no other mucosal involvement  
+no other skin lesions  
+no other symptoms or issues  
+
+oe  
+apthous ulcer noted  
+no signs of infection  
+
+plan  
+meds  
+mc  
+
+=====  
+
+
