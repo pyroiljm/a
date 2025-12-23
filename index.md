@@ -506,4 +506,21 @@ mc
 
 =====  
 
+comes for abscess  
+over  
+no fever  
+no discharge  
+no bogginess or crepitus  
+no excessive pain  
 
+oe  
+abscess noted  
+no cellulitis  
+no discharge  
+
+plan  
+meds  
+mc  
+ed advice for i&d  
+
+========  
