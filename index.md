@@ -1,5 +1,5 @@
 comes for urti  
-fever cough rn bn st  
+fever cough flu st  
 no cp sob palpitations  
 no constitutional sx  
 
