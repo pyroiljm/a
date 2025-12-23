@@ -143,7 +143,9 @@ alert nontoxic
 no rash  
 h s1s2  
 l clear  
-
+  
+a fever  
+  
 plan  
 meds  
 mc  
