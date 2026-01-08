@@ -526,3 +526,22 @@ mc
 ed advice for i&d  
 
 ========  
+
+Comes for constipation  
+able to pass flatus  
+no prev abdo surgeries  
+No PR bleed/melena  
+No hemetemesis  
+   
+Gc   
+well  
+Alert nontoxic  
+No icterus  
+A self palpate nontender   
+A constipation  
+
+Plan  
+Mc  
+declined meds  
+
+========  
