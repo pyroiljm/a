@@ -545,3 +545,105 @@ Mc
 declined meds  
 
 ========  
+  
+Comes for toothache  
+
+Explained to see dentist asap. Has own meds  
+
+Already seen own dentist and given meds, just needs mc  
+  
+No fever  
+No other issues  
+  
+Oe  
+Well   
+Alert nontoxic  
+  
+Plan  
+ Mc    
+F/u dental  
+
+
+=======  
+
+  
+Comes for  strain  
+From work  
+No numbness/weakness  
+No open wounds  
+Able to weight bear  
+  
+Oe   
+No swelling redness noted  
+No obvious wounds or bleeding  
+No obvious deformity  
+ROM  slightly reduced, limited by pain  
+  
+Plan  
+Mc   
+declined meds  
+Xr if no improvement  
+
+
+============  
+
+
+  
+Comes requesting medication to delay menses  
+No pain   
+No fever  
+No discharge  
+No CP/SOB/palpitations/giddiness.   
+No VTE, migraine with aura, liver disease, breast Ca.  
+  
+Oe  
+Gc well  
+   
+A  
+Delay menses  
+  
+Plan  
+Explained may not be effective unless started 3 days before expected period. Must continue taking until desired date  
+Meds  
+
+======  
+
+  
+Comes for nausea  
+  weeks pregnant  
+Aw watery vomitus  
+no abdo pain diarrhea  
+feels like usual morning sickness  
+able to tolerate po  
+  
+oe  
+looks well  
+No icterus  
+  
+A self palpate contender  
+  
+plan  
+​​​​​​​mc   
+declined meds  
+
+======  
+
+   
+Comes for ec.   
+No CI.   
+Not currently pregnant.   
+No prior use in the same cycle  
+Within time limit  
+Advised regular contraceptives rather than EC  
+Also does not prevent sti  
+If delayed period still must test for pregnancy. Not 100% effective  
+  
+Oe well  
+  
+Plan  
+Meds  
+  
+=====
+  
+
+  
