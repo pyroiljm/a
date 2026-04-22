@@ -23,7 +23,7 @@ mc
 =====  
 
 comes for ge  
-no nausea  vomiting  
+no nausea  . omiting  
 watery diarrhea  
 no rif pain  
 no fever  
@@ -47,6 +47,26 @@ mc
 
 ========  
 
+comes for fever  
+no urti/ge  
+no rash  
+no neckpain  
+no other sx at all  
+
+oe  
+well  
+alert nontoxic  
+no rash  
+h s1s2  
+l clear  
+  
+a fever  
+  
+plan  
+meds  
+mc  
+
+=====  
 
 comes for headache  
 bl squeezing  
@@ -130,28 +150,26 @@ meds
 mc  
 
 =====  
-
-comes for fever  
-no urti/ge  
-no rash  
-no neckpain  
-no other sx at all  
-
+  
+Comes for asthma exacerbation  
+no cp sob palpitations  
+no hemoptysis  
+  
 oe  
-well  
+
+walked in  
 alert nontoxic  
-no rash  
-h s1s2  
-l clear  
-  
-a fever  
-  
+
+hs1s2  
+l bl wheeze  
+speaking full sentences  
+
 plan  
 meds  
 mc  
-
-======  
-
+ed advice  
+  
+=====
 comes for dysmenorrhea  
 same as usual period cramps  
 no n/v/d  
@@ -395,6 +413,19 @@ meds
 mc  
 
 =====  
+
+
+comes for coldsore  
+had this before  
+no other issues  
+oe  
+cold sore noted  
+
+plan  
+meds  mc  
+  
+====
+
 
 comes for HI  
 not dangerous mechanism  
