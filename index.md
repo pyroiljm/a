@@ -150,6 +150,23 @@ meds
 mc  
 
 =====  
+comes for ankle sprain  
+no dangerous mechanism  
+able to wb  
+no wounds  
+
+oe  
+walked in  
+antalgic gait  
+
+swelling/redness noted over ankle  
+ottawa -ve  
+
+plan  
+mc meds  
+ed advice for xr  
+  
+=====  
   
 Comes for asthma exacerbation  
 no cp sob palpitations  
@@ -459,6 +476,22 @@ mc
 meds  
 
 =======  
+  
+comes for insomnia  
+a/w fatigue  
+no other sx  
+no particular stressors  
+no infective sx  
+
+oe  
+well  
+alert nontoxic  
+  
+plan  
+meds  
+mc  
+  
+=====  
 
 comes for syncope  
 no cp sob palpitations  
