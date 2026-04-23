@@ -23,7 +23,7 @@ mc
 =====  
 
 comes for ge  
-no nausea  . omiting  
+no nausea  vomiting  
 watery diarrhea  
 no rif pain  
 no fever  
@@ -606,7 +606,7 @@ A constipation
 
 Plan  
 Mc  
-declined meds  
+meds  
 
 ========  
   
@@ -645,7 +645,7 @@ ROM  slightly reduced, limited by pain
   
 Plan  
 Mc   
-declined meds  
+meds  
 Xr if no improvement  
 
 
@@ -688,7 +688,7 @@ A self palpate contender
   
 plan  
 ​​​​​​​mc   
-declined meds  
+meds  
 
 ======  
 
