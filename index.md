@@ -149,22 +149,6 @@ plan
 meds  
 mc  
 
-=====  
-comes for ankle sprain  
-no dangerous mechanism  
-able to wb  
-no wounds  
-
-oe  
-walked in  
-antalgic gait  
-
-swelling/redness noted over ankle  
-ottawa -ve  
-
-plan  
-mc meds  
-ed advice for xr  
   
 =====  
   
@@ -201,7 +185,7 @@ mc
 
 ===  
 
-6m dw checkup  
+6me dw checkup  
 well  
 cheerful  
 no issues at home  
@@ -611,10 +595,7 @@ meds
 ========  
   
 Comes for toothache  
-
-Explained to see dentist asap. Has own meds  
-
-Already seen own dentist and given meds, just needs mc  
+Explained to see dentist asap.  
   
 No fever  
 No other issues  
@@ -624,7 +605,7 @@ Well   
 Alert nontoxic  
   
 Plan  
- Mc    
+Mc      
 F/u dental  
 
 
@@ -648,7 +629,24 @@ Mc
 meds  
 Xr if no improvement  
 
+======  
 
+comes for ankle sprain  
+no dangerous mechanism  
+able to wb  
+no wounds  
+
+oe  
+walked in  
+antalgic gait  
+
+swelling/redness noted over ankle  
+ottawa -ve  
+
+plan  
+mc meds  
+ed advice for xr  
+  
 ============  
 
 
