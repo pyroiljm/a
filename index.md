@@ -413,9 +413,28 @@ tinea noted
 plan  
 meds  
 mc  
-
+  
 =====  
+  
+comes for cellulitis  
+over  
+no fever  
+no abscess or discharge  
 
+oe  
+erythema noted  
+no blisters/pustules  
+no bogginess or necrosis  
+no obvious source of infection  
+no lymphangitis  
+  
+plan  
+meds  
+mc  
+  
+====
+
+  
 
 comes for coldsore  
 had this before  
@@ -650,7 +669,22 @@ ed advice for xr
   
 ============  
 
+comes for plantar fasciitis    
+no acute injury fall trauma  
+otherwise well  
+  
+oe  
+walked in  
+alert nontoxic  
+tender over heel  
+worse on forced dorsiflexion  
+no redness/swelling/overlying skin changes  
 
+plan  
+meds  
+mc  
+  
+======  
   
 Comes requesting medication to delay menses  
 No pain   
