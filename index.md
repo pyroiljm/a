@@ -170,7 +170,8 @@ meds
 mc  
 ed advice  
   
-=====
+=====  
+  
 comes for dysmenorrhea  
 same as usual period cramps  
 no n/v/d  
@@ -705,7 +706,66 @@ Oe well
 Plan  
 Meds  
   
-=====
+=====  
+  
+  
+HSG  
+Chronic conditions rved  
+Diet exercise advice given  
+Advised on smoking/drinking  
+Labs  
+Rv after  
+
+========  
+
+
+Health screening
+
+generally well  
+no pmhx or famhx  
+no chronic meds  
+no acute sx or complaints  
+no constitutional sx  
+
+oe  
+bp  
+walked in  
+alert nontoxic  
+pearl  
+eom full  
+h s1s2  
+l clear  
+a snt  
+c supple no edema  
+power 5/5 bl ul ll  
+sensation intact throughout  
+  
+plan  
+labs  
+
+    
+=========  
+ref ed
+     
+  
+  
+Dear ED,  
+Please assist in reviewing this patient for  
+  
+Timothy Chua  
+M65314D  
   
 
+
+========  
   
+  
+Dear ,  
+The above patient is keen to be referred to  for  . Please assist in reviewing them and managing as necessary.  
+  
+Timothy Chua  
+M65314D  
+
+
+
+========    
