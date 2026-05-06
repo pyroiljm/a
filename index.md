@@ -742,6 +742,26 @@ Meds
   
 =====  
   
+Comes for mastitis  
+Breastfeeding  
+Pain and redness over breast  
+no fever  
+No discrete mass according to pt  
+No other symptoms  
+  
+Oe  
+Alert nontoxic  
+  
+Not keen for physical exam  
+  
+A  
+Mastitis  
+  
+Plan  
+meds  
+mc  
+
+=====  
   
 HSG  
 Chronic conditions rved  
